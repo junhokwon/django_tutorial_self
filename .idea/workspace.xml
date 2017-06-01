@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abdebefb-1fd6-472e-8239-610ae1002aa3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/djangopoll.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.python-version" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/mysite/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/mysite/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/mysite/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/mysite/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/templates/polls/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/templates/polls/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/templates/polls/result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django_app/polls/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django_app/db.sqlite3" afterPath="$PROJECT_DIR$/django_app/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django_app/polls/static/polls/style.css" afterPath="$PROJECT_DIR$/django_app/polls/static/polls/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_app/polls/static/polls/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="75">
+              <caret line="5" column="69" lean-forward="false" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -120,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_app/polls/templates/polls/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -156,8 +135,8 @@
         <option value="$PROJECT_DIR$/django_app/polls/urls.py" />
         <option value="$PROJECT_DIR$/django_app/polls/templates/polls/detail.html" />
         <option value="$PROJECT_DIR$/django_app/polls/views.py" />
-        <option value="$PROJECT_DIR$/django_app/polls/static/polls/style.css" />
         <option value="$PROJECT_DIR$/django_app/polls/templates/polls/index.html" />
+        <option value="$PROJECT_DIR$/django_app/polls/static/polls/style.css" />
       </list>
     </option>
   </component>
@@ -275,6 +254,40 @@
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangopoll" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangopoll" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="polls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -302,6 +315,11 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="/usr/local/var/pyenv/versions/djangopoll/bin/python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/django_app/polls/static/polls/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -629,14 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_app/polls/static/polls/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_app/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -649,6 +659,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="74" lean-forward="false" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_app/polls/static/polls/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="69" lean-forward="false" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
           <folding />
         </state>
       </provider>
