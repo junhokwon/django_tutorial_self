@@ -10,6 +10,11 @@ urlpatterns = [
     url(r'^(?P<question_id>[0-9]+)/vote/$', views.vote, name='vote'),
 ]
 
+# app_name ='index'
+# urlpatterns = [
+#     url(r'^$', views.IndexView.as_view(), name='index'),
+# ]
+
 # app_name = 'polls'
 # urlpatterns = [
 #     # ex : /polls/
